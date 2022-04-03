@@ -14,6 +14,9 @@ import Product from './components/Product';
 
 class App extends Component {
   render(){
+
+    console.log("hello 3 ...");
+
     return (
       <React.Fragment>
         <Navbar /> 
